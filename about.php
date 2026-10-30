@@ -190,7 +190,7 @@
 			<h2>Connect</h2>
 		</div>
 		<div class="col-12 social padding">
-			<a href="https://www.faceebook.com/sangyetenphel"><i class="fab fa-facebook"></i></a>
+			<a href="https://www.facebook.com/sangyetenphel"><i class="fab fa-facebook"></i></a>
 			<a href="#"><i class="fab fa-twitter"></i></a>
 			<a href="mailto:sangyetenphel@gmail.com"><i class="fab fa-google-plus-g"></i></a>
 			<a href="https://www.instagram.com/sangyetenphel"><i class="fab fa-instagram"></i></a>
