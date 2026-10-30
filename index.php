@@ -128,7 +128,7 @@
             <div class="blog-posts row">
                 <div class="post columns four post-1">
                     <div class="overlay">
-                        <a href="http://alpinelodge.ga/" target="_blank">VIEW PROJECT</a>
+                        <a href="https://github.com/sangyetenphel/alpine-lodge" target="_blank">VIEW PROJECT</a>
                     </div>
                 </div>
                 <div class="post columns four post-2">
